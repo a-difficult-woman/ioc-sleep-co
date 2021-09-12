@@ -21,4 +21,9 @@ html { border: none; }
 
 /* -------------Universal styles & utility classes-------------*/
 
-.padded {padding: 5%;}
+.padded     {padding: 5%;}
+.padded-sml {padded: 1rem;}
+.bg-dark {
+    background-color: #192B37;
+    color: white;
+}
